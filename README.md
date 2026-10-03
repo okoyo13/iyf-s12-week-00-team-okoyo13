@@ -8,6 +8,17 @@ use all semester.
 
 ## okoyo13 — VS Code Tips
 <!--okoyo13 will add this section here-->
+Visual Studio Code is my main editor. The shortcuts I use most are `Ctrl+P` to
+jump to a file and `Ctrl+Shift+P` to open the command palette. My favourite
+extensions are **Prettier** for formatting and **GitLens** for inline blame.
+The [official docs](https://code.visualstudio.com/docs) are worth skimming once.
+
+Key shortcuts I rely on:
+
+- `Ctrl+P` — quick open file
+- `Ctrl+Shift+P` — command palette
+- `` Ctrl+` `` — toggle terminal
+- `Alt+↑ / Alt+↓` — move line up/down
 
 ## Wilfred-Mutuma — Git & Github
 <!--Wilfred will add this section here-->
