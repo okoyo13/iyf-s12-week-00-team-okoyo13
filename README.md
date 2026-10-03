@@ -11,3 +11,18 @@ use all semester.
 
 ## Wilfred-Mutuma — Git & Github
 <!--Wilfred will add this section here-->
+
+Git is a version control system that helps developers track changes
+in their code. It allows us to create branches, make commits, and
+work on different features without changing the main project.
+GitHub allows developers to store Git repositories online and
+collaborate with other developers through pull requests and reviews.
+
+### Useful Git Commands
+
+- `git clone` — downloads a repository
+- `git status` — shows the current repository status
+- `git add` — stages changes
+- `git commit` — saves changes
+- `git push` — uploads changes to GitHub
+- `git pull` — downloads the latest changes
