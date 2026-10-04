@@ -21,7 +21,7 @@ Key shortcuts I rely on:
 - `Alt+↑ / Alt+↓` — move line up/down
 
 ## Wilfred-Mutuma — Git & Github
-<!--Wilfred will add this section here-->
+<!--Wilfred-Mutuma will add this section here-->
 
 Git is a version control system that helps developers track changes
 in their code. It allows us to create branches, make commits, and
@@ -37,3 +37,6 @@ collaborate with other developers through pull requests and reviews.
 - `git commit` — saves changes
 - `git push` — uploads changes to GitHub
 - `git pull` — downloads the latest changes
+
+## Javandaizy85-commits — Study Techniques
+<!--Javandaizy85-commits will add this section here-->
