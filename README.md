@@ -40,3 +40,4 @@ collaborate with other developers through pull requests and reviews.
 
 ## Javandaizy85-commits — Study Techniques
 <!--Javandaizy85-commits will add this section here-->
+I use simple study techniques that help me remember HTML and computer skills. My techniques are Active Recall (typing tags from memory), Spaced Repetition (revising every 2 days), Pomodoro (25 min work / 5 min break), and Teaching friends  I use VS Code, GitHub mobile app and YouTube.
